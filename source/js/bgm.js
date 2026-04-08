@@ -5,6 +5,8 @@
   const SRC = '/music/local/THT%20-%20葬花.mp3';
   const TARGET_VOLUME = 0.35;
 
+
+
   if (window[FLAG]) return;
   window[FLAG] = true;
 
@@ -56,7 +58,9 @@
 
   const boot = async () => {
     const audio = ensureAudio();
+
     const ok = await tryPlay(audio);
+
     if (ok) {
       setTimeout(() => unmuteIfPlaying(audio), 80);
     }

@@ -2,8 +2,8 @@
 title: PyQt6 入门教学：从 0 到 1 写出桌面 GUI
 abbrlink: pyqt6-guide
 cover: /img/1.png
-date: 2026-04-07 10:30:00
-updated: 2026-04-07 11:40:00
+date: 2026-04-03 10:30:00
+updated: 2026-04-03 11:40:00
 toc: true
 tags:
   - Python

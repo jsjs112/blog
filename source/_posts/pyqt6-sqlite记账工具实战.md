@@ -2,8 +2,8 @@
 title: PyQt6 + SQLite 实战：做一个可持久化记账工具
 abbrlink: pyqt6-sqlite-ledger
 cover: /img/4.png
-date: 2026-04-07 12:35:00
-updated: 2026-04-07 12:35:00
+date: 2026-04-08 12:35:00
+updated: 2026-04-08 12:35:00
 toc: true
 tags:
   - Python
