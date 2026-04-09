@@ -108,6 +108,35 @@
   display: none !important;
 }
 
+/* 移动端与PC导航同步：移除“更多”入口与侧滑菜单 */
+@media screen and (max-width: 768px) {
+  #nav #toggle-menu,
+  #sidebar,
+  #menu-mask,
+  #sidebar-menus {
+    display: none !important;
+  }
+
+  #nav #menus {
+    display: flex !important;
+    align-items: center;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  #nav .menus_items {
+    display: flex !important;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 8px;
+  }
+
+  #nav .menus_items .menus_item > a {
+    white-space: nowrap;
+    padding: 0 8px !important;
+    font-size: 14px;
+  }
+}
 
 /* 背景流星粒子层 */
 #meteor-canvas {
