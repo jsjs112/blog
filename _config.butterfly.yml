@@ -267,7 +267,9 @@ footer:
   copyright:
     enable: true
     version: true
-  custom_text:
+  custom_text: '<span class="beian-wrap"><img src="/img/备案图标.png" alt="备案图标" class="beian-icon" style="width:12px;height:12px;max-width:12px;display:inline-block;vertical-align:-1px;margin-right:2px;"><a href="https://beian.mps.gov.cn/#/query/webSearch?code=32058102002930" rel="noreferrer" target="_blank">苏公网安备32058102002930号</a></span>'
+
+
 
 # --------------------------------------
 # Aside Settings

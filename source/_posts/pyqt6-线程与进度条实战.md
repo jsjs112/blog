@@ -2,8 +2,8 @@
 title: PyQt6 实战：QThread + 进度条，彻底解决界面卡顿
 abbrlink: pyqt6-qthread-progress
 cover: /img/3.png
-date: 2026-04-07 12:10:00
-updated: 2026-04-07 12:10:00
+date: 2026-02-26 12:10:00
+updated: 2026-02-26 12:10:00
 toc: true
 tags:
   - Python

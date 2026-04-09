@@ -2,8 +2,8 @@
 title: PyQt6 进阶：布局系统与 QMainWindow 实战
 abbrlink: pyqt6-layout-mainwindow
 cover: /img/2.png
-date: 2026-04-06 11:50:00
-updated: 2026-04-06 11:50:00
+date: 2026-02-05 11:50:00
+updated: 2026-02-05 11:50:00
 toc: true
 tags:
   - Python

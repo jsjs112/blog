@@ -1,6 +1,6 @@
 ---
 title: AI Agent 开发实践：我在 Python 项目里的稳定工作流
-date: 2026-04-08 19:30:00
+date: 2026-03-17 19:30:00
 description: 围绕 Python + AI Agent 的一线实践总结：环境管理、IDE 选择、Rules/Skills/Memory 配置与高质量提问方法。
 cover: /img/5.png
 tags:
