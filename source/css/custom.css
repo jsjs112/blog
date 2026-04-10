@@ -109,8 +109,9 @@
 }
 
 /* 移动端与PC导航同步：移除“更多”入口与侧滑菜单 */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   #nav #toggle-menu,
+  #nav.hide-menu #toggle-menu,
   #sidebar,
   #menu-mask,
   #sidebar-menus {
@@ -124,7 +125,8 @@
     -webkit-overflow-scrolling: touch;
   }
 
-  #nav .menus_items {
+  #nav .menus_items,
+  #nav.hide-menu .menus_items {
     display: flex !important;
     align-items: center;
     flex-wrap: nowrap;
