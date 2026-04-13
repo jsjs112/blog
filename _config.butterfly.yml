@@ -460,9 +460,10 @@ busuanzi:
 math:
   # Choose: mathjax, katex
   # Leave it empty if you don't need math
-  use:
+  use: katex
   per_page: true
   hide_scrollbar: false
+
 
   mathjax:
     # Enable the contextual menu
